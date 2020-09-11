@@ -1,0 +1,12 @@
+{
+  "name": "gitnit",
+  "version": "1.0.0",
+  "description": "https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
